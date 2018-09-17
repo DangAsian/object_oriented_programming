@@ -28,8 +28,8 @@ class BankAccount
     @balance *= (interest_rate + 1)
   end
 
-
-
+#
+#
 end
-
-person1 = BankAccount.new(200, 1.13)
+#
+# person1 = BankAccount.new(200, 1.13)
